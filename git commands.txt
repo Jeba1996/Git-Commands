@@ -1,0 +1,9 @@
+git init
+git status
+git add.
+git commit -m "create banking-app"
+git push
+git remote add origin https://github.com/Jeba1996/banking-application
+git push
+git push --set-upstream origin master
+
